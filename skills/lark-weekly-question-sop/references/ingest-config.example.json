@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Reuters Business",
+    "url": "https://feeds.reuters.com/reuters/businessNews",
+    "type": "金融"
+  },
+  {
+    "name": "Financial Times World",
+    "url": "https://www.ft.com/world?format=rss",
+    "type": "金融"
+  },
+  {
+    "name": "Nieman Lab",
+    "url": "https://www.niemanlab.org/feed/",
+    "type": "新传"
+  }
+]

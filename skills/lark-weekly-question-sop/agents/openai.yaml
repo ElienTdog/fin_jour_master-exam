@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lark Weekly Question SOP"
+  short_description: "Daily ingest + weekly Feishu question automation."
+  default_prompt: "Use $lark-weekly-question-sop to run daily feed ingest into Bitable A and weekly deduplicated question generation into Bitable B."
